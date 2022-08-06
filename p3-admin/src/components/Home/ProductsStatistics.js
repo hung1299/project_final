@@ -11,8 +11,8 @@ const ProductsStatistics = () => {
             border:"none",
             borderRadius:"2px",
             boxShadow:"0 2px 10px 0 rgba(70, 76, 79, .2)",
-            width:"640",
-            height:"480"
+            width:"100%",
+            height:"100%"
           }}
           src="https://charts.mongodb.com/charts-project3-ernqn/embed/charts?id=62cce38c-6bc4-4dec-8c79-15b909e5e8a1&maxDataAge=3600&theme=light&autoRefresh=true"
           ></iframe>
